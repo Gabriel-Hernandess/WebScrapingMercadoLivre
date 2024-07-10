@@ -18,7 +18,7 @@ Este é um script básico de web scraping que busca produtos com preço ativo no
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Gabriel-Hernandess/WebScrappingMercadoLivre.git
+   git clone https://github.com/Gabriel-Hernandess/WebScrapingMercadoLivre.git
    cd WebScrappingMercadoLivre
 
 ## Instale as Bibliotecas Necessárias
